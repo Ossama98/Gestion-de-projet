@@ -6,6 +6,7 @@ l'architecture logicielle pour l'interopérabilité (Web Services, architecture 
 l’intégration continue et le déploiement automatique (serveur d'intégration continue, containerisation)
 
 ## **[Lien du github du projet.](https://github.com/uca-m1informatique-softeng/s2-gestiondeprojet-jokr)**
+(Projet en cours)
  
 ### Itération 1 :
  	Mise en place de Travis CI
